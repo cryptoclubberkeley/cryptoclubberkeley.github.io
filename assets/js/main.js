@@ -17,6 +17,7 @@
     /*=====================================
     Sticky
     ======================================= */
+    /*
     window.onscroll = function () {
         var header_navbar = document.getElementById("header_navbar");
         var logo = document.querySelector("img#logo");
@@ -39,8 +40,8 @@
         } else {
             backToTo.style.display = "none";
         }
-    };
-
+    };*/
+    
     // Get the navbar
 
 
